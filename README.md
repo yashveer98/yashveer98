@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashveer98
 - 👀 I’m interested in ... Robots and cars and stuff.
-- 🌱 I’m currently learning ... Android app development with kotlin
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... bleeding edge tech in web development
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
